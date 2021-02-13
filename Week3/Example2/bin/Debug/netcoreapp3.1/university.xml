@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<University xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <Student>
+      <GPA>3.4</GPA>
+      <Name>Bob1</Name>
+    </Student>
+    <Student>
+      <GPA>3</GPA>
+      <Name>Bob2</Name>
+    </Student>
+  </Students>
+</University>
