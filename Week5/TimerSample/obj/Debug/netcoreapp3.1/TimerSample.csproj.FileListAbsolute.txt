@@ -1,0 +1,13 @@
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\bin\Debug\netcoreapp3.1\TimerSample.exe
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\bin\Debug\netcoreapp3.1\TimerSample.deps.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\bin\Debug\netcoreapp3.1\TimerSample.runtimeconfig.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\bin\Debug\netcoreapp3.1\TimerSample.runtimeconfig.dev.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\bin\Debug\netcoreapp3.1\TimerSample.dll
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\bin\Debug\netcoreapp3.1\TimerSample.pdb
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\obj\Debug\netcoreapp3.1\TimerSample.csprojAssemblyReference.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\obj\Debug\netcoreapp3.1\TimerSample.AssemblyInfoInputs.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\obj\Debug\netcoreapp3.1\TimerSample.AssemblyInfo.cs
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\obj\Debug\netcoreapp3.1\TimerSample.csproj.CoreCompileInputs.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\obj\Debug\netcoreapp3.1\TimerSample.dll
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\obj\Debug\netcoreapp3.1\TimerSample.pdb
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TimerSample\obj\Debug\netcoreapp3.1\TimerSample.genruntimeconfig.cache

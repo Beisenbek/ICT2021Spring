@@ -1,28 +1,29 @@
 ﻿using System;
+using System.Threading;
 
 namespace TestApp
 {
-    class Student
-    {
-
-        public string name;
-        public string aname;
-
-        public override string ToString()
-        {
-            return name + " " + aname;
-        }
-
-    }
     class Program
     {
+        static void DoIt()
+        {
+            Console.WriteLine("test");
+            while (true)
+            {
+                Console.WriteLine("doit: " + Thread.CurrentThread.ManagedThreadId);
+            }
+        }
         static void Main(string[] args)
         {
-            Student s = new Student();
-            s.aname = "Smith";
-            s.name = "Bob";
+            ThreadStart ts = new ThreadStart(DoIt);
 
-            Console.WriteLine(s);
+            Thread t = new Thread(ts);
+
+            
+            while (true)
+            {
+                Console.WriteLine("main: " + Thread.CurrentThread.ManagedThreadId);
+            }
         }
     }
 }
