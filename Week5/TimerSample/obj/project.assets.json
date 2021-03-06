@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsnbk\\Documents\\ICT2021Spring\\Week5\\TimerSample\\TimerSample.csproj",
+      "projectUniqueName": "C:\\Users\\bsnbk\\source\\repos\\ict2021spring\\Week5\\TimerSample\\TimerSample.csproj",
       "projectName": "TimerSample",
-      "projectPath": "C:\\Users\\bsnbk\\Documents\\ICT2021Spring\\Week5\\TimerSample\\TimerSample.csproj",
+      "projectPath": "C:\\Users\\bsnbk\\source\\repos\\ict2021spring\\Week5\\TimerSample\\TimerSample.csproj",
       "packagesPath": "C:\\Users\\bsnbk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsnbk\\Documents\\ICT2021Spring\\Week5\\TimerSample\\obj\\",
+      "outputPath": "C:\\Users\\bsnbk\\source\\repos\\ict2021spring\\Week5\\TimerSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsnbk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

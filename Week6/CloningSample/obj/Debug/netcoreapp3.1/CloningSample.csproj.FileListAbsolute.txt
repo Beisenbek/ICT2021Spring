@@ -1,0 +1,12 @@
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\bin\Debug\netcoreapp3.1\CloningSample.exe
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\bin\Debug\netcoreapp3.1\CloningSample.deps.json
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\bin\Debug\netcoreapp3.1\CloningSample.runtimeconfig.json
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\bin\Debug\netcoreapp3.1\CloningSample.runtimeconfig.dev.json
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\bin\Debug\netcoreapp3.1\CloningSample.dll
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\bin\Debug\netcoreapp3.1\CloningSample.pdb
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\obj\Debug\netcoreapp3.1\CloningSample.AssemblyInfoInputs.cache
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\obj\Debug\netcoreapp3.1\CloningSample.AssemblyInfo.cs
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\obj\Debug\netcoreapp3.1\CloningSample.csproj.CoreCompileInputs.cache
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\obj\Debug\netcoreapp3.1\CloningSample.dll
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\obj\Debug\netcoreapp3.1\CloningSample.pdb
+C:\Users\bsnbk\source\repos\ict2021spring\Week6\CloningSample\obj\Debug\netcoreapp3.1\CloningSample.genruntimeconfig.cache

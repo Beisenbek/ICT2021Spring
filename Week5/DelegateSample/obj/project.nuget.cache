@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x116NeAFNCrpT5gJH70JadwSt8swKaKPfIFsy+20kcyPkwt1bWJNHdTXms0NrJ3zbsjZKvqFvO5GNfhdBH9FTw==",
+  "dgSpecHash": "N5NdviLv0ZyjMw9Du9PWxgDtjvr095+icGUI3zSWynMkDhYsCX1zPv7MqmDaViJt69NjOH2/zziPECklMndcag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bsnbk\\Documents\\ICT2021Spring\\Week5\\DelegateSample\\DelegateSample.csproj",
+  "projectFilePath": "C:\\Users\\bsnbk\\source\\repos\\ict2021spring\\Week5\\DelegateSample\\DelegateSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
