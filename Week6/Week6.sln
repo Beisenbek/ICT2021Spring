@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloningSample2", "CloningSa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloningSample3", "CloningSample3\CloningSample3.csproj", "{5C5D6E81-F19F-4B5C-AD94-EE6CFC6F5776}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeWithTimer", "SnakeWithTimer\SnakeWithTimer.csproj", "{77657EB5-6862-4E79-8652-3A6486E197D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5C5D6E81-F19F-4B5C-AD94-EE6CFC6F5776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C5D6E81-F19F-4B5C-AD94-EE6CFC6F5776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C5D6E81-F19F-4B5C-AD94-EE6CFC6F5776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77657EB5-6862-4E79-8652-3A6486E197D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77657EB5-6862-4E79-8652-3A6486E197D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77657EB5-6862-4E79-8652-3A6486E197D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77657EB5-6862-4E79-8652-3A6486E197D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
