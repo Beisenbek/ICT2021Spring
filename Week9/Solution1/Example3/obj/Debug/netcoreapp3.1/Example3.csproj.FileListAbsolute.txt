@@ -1,0 +1,13 @@
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\bin\Debug\netcoreapp3.1\Example3.exe
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\bin\Debug\netcoreapp3.1\Example3.deps.json
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\bin\Debug\netcoreapp3.1\Example3.runtimeconfig.json
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\bin\Debug\netcoreapp3.1\Example3.runtimeconfig.dev.json
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\bin\Debug\netcoreapp3.1\Example3.dll
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\bin\Debug\netcoreapp3.1\Example3.pdb
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\obj\Debug\netcoreapp3.1\Example3.csprojAssemblyReference.cache
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\obj\Debug\netcoreapp3.1\Example3.AssemblyInfoInputs.cache
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\obj\Debug\netcoreapp3.1\Example3.AssemblyInfo.cs
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\obj\Debug\netcoreapp3.1\Example3.csproj.CoreCompileInputs.cache
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\obj\Debug\netcoreapp3.1\Example3.dll
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\obj\Debug\netcoreapp3.1\Example3.pdb
+C:\Users\bsnbk\source\repos\ict2021spring\Week9\Solution1\Example3\obj\Debug\netcoreapp3.1\Example3.genruntimeconfig.cache
