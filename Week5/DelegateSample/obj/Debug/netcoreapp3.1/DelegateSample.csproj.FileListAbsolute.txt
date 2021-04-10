@@ -1,0 +1,13 @@
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\bin\Debug\netcoreapp3.1\DelegateSample.exe
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\bin\Debug\netcoreapp3.1\DelegateSample.deps.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\bin\Debug\netcoreapp3.1\DelegateSample.runtimeconfig.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\bin\Debug\netcoreapp3.1\DelegateSample.runtimeconfig.dev.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\bin\Debug\netcoreapp3.1\DelegateSample.dll
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\bin\Debug\netcoreapp3.1\DelegateSample.pdb
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\obj\Debug\netcoreapp3.1\DelegateSample.AssemblyInfoInputs.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\obj\Debug\netcoreapp3.1\DelegateSample.AssemblyInfo.cs
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\obj\Debug\netcoreapp3.1\DelegateSample.csproj.CoreCompileInputs.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\obj\Debug\netcoreapp3.1\DelegateSample.dll
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\obj\Debug\netcoreapp3.1\DelegateSample.pdb
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\obj\Debug\netcoreapp3.1\DelegateSample.genruntimeconfig.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\DelegateSample\obj\Debug\netcoreapp3.1\DelegateSample.csprojAssemblyReference.cache

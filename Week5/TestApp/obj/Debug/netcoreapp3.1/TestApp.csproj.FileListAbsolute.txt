@@ -1,0 +1,13 @@
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+C:\Users\bsnbk\Documents\ICT2021Spring\Week5\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
