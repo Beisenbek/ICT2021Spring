@@ -1,0 +1,10 @@
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\bin\Debug\Example1.exe.config
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\bin\Debug\Example1.exe
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\bin\Debug\Example1.pdb
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\obj\Debug\Example1.Form1.resources
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\obj\Debug\Example1.Properties.Resources.resources
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\obj\Debug\Example1.csproj.GenerateResource.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\obj\Debug\Example1.exe
+C:\Users\bsnbk\Documents\ICT2021Spring\Week11\Example1\obj\Debug\Example1.pdb
